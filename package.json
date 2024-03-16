@@ -21,6 +21,7 @@
     "reactjs-audiotag": "^1.0.1",
     "react-hieus207-element": "^1.0.0",
     "react-music-tag": "^1.0.1",
-    "react-tupple": "^1.0.1"
+    "react-tupple": "^1.0.1",
+    "huy_ho": "^0.1.1"
   }
 }
