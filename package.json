@@ -19,6 +19,8 @@
   "homepage": "https://github.com/hieus207/react-example#readme",
   "dependencies": {
     "reactjs-audiotag": "^1.0.1",
-    "react-hieus207-element": "^1.0.0"
+    "react-hieus207-element": "^1.0.0",
+    "react-music-tag": "^1.0.1",
+    "react-tupple": "^1.0.1"
   }
 }
